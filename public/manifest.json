@@ -1,0 +1,17 @@
+{
+  "name": "SpendTrack",
+  "short_name": "SpendTrack",
+  "description": "Personal finance dashboard and expense tracker.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
